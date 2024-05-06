@@ -24,6 +24,7 @@ img_ast = "kw2.png"  # Зображення кв2
 img_bullet = "bullet.png"  # Зображення кулі
 img_hero_damaged = "pz4g_damaged.png"  # Зображення танка при пошкодженні
 img_hero_heavily_damaged = "pz4g_heavily_damaged.png"  # Зображення танка при сильному пошкодженні
+img_hero_fatal_damage = "pz4g_fatal_damage.png"  # Зображення танка при фатальному пошкодженні
 
 # Глобальні змінні для гри
 score = 0
